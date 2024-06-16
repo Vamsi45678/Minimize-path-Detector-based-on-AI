@@ -1,0 +1,1 @@
+# Minimize-path-Detector-based-on-AI
